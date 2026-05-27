@@ -3,3 +3,7 @@
 
 # Ada Library Information
 *.ali
+
+# Build output directories
+/obj/
+/bin/
